@@ -1,3 +1,1 @@
-import pick from "./pick";
-
-export { pick };
+export { pick } from "./pick";
